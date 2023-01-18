@@ -4,7 +4,7 @@
   "description": "Implementaion of a Node.js app for building production-ready CRDR RESTful APIs using Express, MongoDB",
   "bin": "bin/createNodejsApp.js",
   "main": "src/index.js",
-  "repository": "https://github.com/hagopj13/node-express-boilerplate.git",
+  "repository": "https://github.com/HiCircles/UTRIAL-API.git",
   "author": "Steven Mugo <mugonjoroge@gmail.com>, Mark Misiko <misiko.mark@gmail.com>",
   "license": "MIT",
   "engines": {
